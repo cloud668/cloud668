@@ -1,13 +1,3 @@
-Here's the complete content for your GitHub repository:
-
-# Repository Name: `dogecoin-cpu-miner`
-
-# Repository Description:
-```
-Automated script for CPU mining Dogecoin using XMRig through unMineable pool with automatic latest version detection and configuration.
-```
-
-# README.md content:
 ```markdown
 # Dogecoin CPU Miner Script
 
@@ -16,7 +6,7 @@ Automated script for CPU mining Dogecoin using XMRig through unMineable pool. Th
 ## Features
 
 - Automatic download and setup of latest XMRig release
-- Interactive configuration with user prompts
+- Interactive configuration with user prompts  
 - Custom worker name support
 - Adjustable CPU core usage
 - Background mining process
@@ -24,14 +14,14 @@ Automated script for CPU mining Dogecoin using XMRig through unMineable pool. Th
 ## Requirements
 
 - Linux-based operating system
-- Internet connection
+- Internet connection  
 - Dogecoin wallet address
 
 ## Quick Start
 
 1. Download the script:
 ```bash
-wget https://raw.githubusercontent.com/yourusername/dogecoin-cpu-miner/main/doge_miner.sh
+wget [https://raw.githubusercontent.com/yourusername/dogecoin-cpu-miner/main/doge_miner.sh](https://raw.githubusercontent.com/Swooned5197/dogecoin-cpu-miner/refs/heads/main/doge_miner.sh)
 ```
 
 2. Make it executable:
@@ -41,43 +31,17 @@ chmod +x doge_miner.sh
 
 3. Run the script:
 ```bash
-./doge_miner.sh
+./doge_miner.sh  
 ```
 
 ## Usage
 
 The script will prompt you for:
 1. Your Dogecoin wallet address
-2. Worker name (for identification on unMineable)
+2. Worker name (for identification on unMineable)  
 3. Number of CPU cores to use
 
-## Monitoring
-
-Check mining status:
-```bash
-tail -f xmrig/log.txt
-```
-
-Monitor your earnings at [unMineable.com](https://unmineable.com)
-
-## Warning
-
-- Mining cryptocurrency is resource-intensive
-- May increase electricity consumption
-- Please mine responsibly
-- Monitor your hardware temperature
-
-## License
-
-MIT License
-
-## Disclaimer
-
-This script is provided as-is without warranty. Use at your own risk. Please ensure cryptocurrency mining is legal in your jurisdiction.
-
-```
-
-# doge_miner.sh content:
+## Script Content
 ```bash
 #!/bin/bash
 
@@ -117,8 +81,24 @@ echo "Mining has started. You can check your earnings at unmineable.com."
 echo "To check the mining status, you can view the log file with: tail -f xmrig/log.txt"
 ```
 
-# LICENSE content:
+## Monitoring
+
+Check mining status:
+```bash
+tail -f xmrig/log.txt
 ```
+
+Monitor your earnings at [unMineable.com](https://unmineable.com)
+
+## Warning
+
+- Mining cryptocurrency is resource-intensive
+- May increase electricity consumption
+- Please mine responsibly
+- Monitor your hardware temperature
+
+## License
+
 MIT License
 
 Copyright (c) 2024 Your Name
@@ -140,6 +120,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
 
-This gives you everything you need to set up your GitHub repository. Just replace "yourusername" with your actual GitHub username in the README.md file.
+## Disclaimer
+
+This script is provided as-is without warranty. Use at your own risk. Please ensure cryptocurrency mining is legal in your jurisdiction.
+```
