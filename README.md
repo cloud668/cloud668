@@ -20,5 +20,5 @@ This script automates the setup and configuration of XMRig for mining Dogecoin t
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/dogecoin-cpu-miner.git
+git clone https://github.com/Swooned5197/dogecoin-cpu-miner.git
 cd dogecoin-cpu-miner
