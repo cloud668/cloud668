@@ -21,7 +21,7 @@ Automated script for CPU mining Dogecoin using XMRig through unMineable pool. Th
 
 1. Download the script:
 ```bash
-wget [https://raw.githubusercontent.com/yourusername/dogecoin-cpu-miner/main/doge_miner.sh](https://raw.githubusercontent.com/Swooned5197/dogecoin-cpu-miner/refs/heads/main/doge_miner.sh)
+wget https://raw.githubusercontent.com/Swooned5197/dogecoin-cpu-miner/refs/heads/main/doge_miner.sh
 ```
 
 2. Make it executable:
