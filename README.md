@@ -55,7 +55,7 @@ Welcome to the **Dogecoin Mining Script**! This script sets up and runs the [XMR
 
 ## Example
 ```bash
-bash dogecoin-miner.sh
+bash dogecoin_miner.sh
 ```
 - Input: `DQdja...zkg (Dogecoin Address)`
 - Input: `worker01 (Worker Name)`
