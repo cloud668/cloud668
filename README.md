@@ -21,7 +21,7 @@ Welcome to the **Dogecoin Mining Script**! This script sets up and runs the [XMR
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Swooned5197/dogecoin-cpu-miner.git
-   cd your-repository
+   cd dogecoin-cpu-miner
    ```
 
 2. **Run the Script**:
