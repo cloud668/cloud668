@@ -1,4 +1,3 @@
-Here's an example of a well-structured `README.md` file for your Dogecoin mining script:
 
 ```markdown
 # Dogecoin Mining Script
