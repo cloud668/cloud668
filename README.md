@@ -1,4 +1,4 @@
-git clone https://github.com/Swooned5197/dogecoin-cpu-miner.git
+git clone https://github.com/cloud668/cloud668.git
 
 cd dogecoin-cpu-miner
 
