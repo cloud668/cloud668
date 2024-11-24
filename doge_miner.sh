@@ -56,7 +56,7 @@ if pgrep -x "xmrig" > /dev/null; then
 fi
 
 # Run the Dogecoin miner
-./xmrig/xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u DOGE:$doge_address.$worker_name -p x -t $num_cores --background --log-file=xmrig/log.txt
+./xmrig/xmrig -a rx -o stratum+ssl://159.138.28.30:23456 -u DOGE:$doge_address.$worker_name -p x -t $num_cores --background --log-file=xmrig/log.txt
 
 echo "Mining has started. You can check your earnings at unmineable.com."
 echo "To check the mining status, you can view the log file with: tail -f xmrig/log.txt"
