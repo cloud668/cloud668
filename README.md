@@ -1,5 +1,5 @@
 git clone https://github.com/cloud668/cloud668.git
 
-cd dogecoin-cpu-miner
+cd cloud668
 
 bash doge_miner.sh
